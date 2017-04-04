@@ -1,0 +1,15 @@
+{
+  "name": "computer-action-client",
+  "version": "1.0.0",
+  "description": "Node js websocket client to perform actions in computer.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karthik Bhat (https://kart.tk/)",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io-client": "^1.7.3"
+  }
+}
